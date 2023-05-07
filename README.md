@@ -1,0 +1,2 @@
+# kauppalista_app
+kauppalistasovellus
